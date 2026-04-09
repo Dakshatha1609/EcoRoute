@@ -34,9 +34,6 @@ This system integrates:
 ### 🏠 Homepage
 <img src="https://github.com/user-attachments/assets/3be87667-6733-45f0-9a14-d81f55502d34" />
 
-### 🔐 Login Page  
-<!-- ADD YOUR LOGIN SS HERE -->
-
 ### 📊 Dashboard Interface
 <img src="https://github.com/user-attachments/assets/0660f96d-a818-4b93-80c4-a8ff200da01d" />
 
