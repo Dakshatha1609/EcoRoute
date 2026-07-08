@@ -105,7 +105,7 @@ Performed:
 - Spearman Rank Correlation: **0.90**  
 - Kendall Tau: **0.80**
 
-# Insight:
+### Insight:
 - Strong agreement between EBM & NAM  
 - Predictions are stable and reliable  
 
